@@ -1,8 +1,8 @@
 # Hello 👋
 
-I'm James, I'm a Senior Backend Engineer based in London. I have been writing Go professionally for 8 years, and primarily focus on infrastructure, networking, internal tooling, security and compliance (PCI and FCA regulations).
+I'm James, I'm a Platform Engineer based in London. I have been writing Go professionally for over 10 years, and primarily focus on infrastructure, developer experience, security and compliance.
 
-I currently work at [Risk Ledger](https://riskledger.com), however previously I was worked in Fintech for well known startups such as [GoCardless](https://gocardless.com), [Pusher](https://pusher.com) and [Cuvva](https://cuvva.com). I have also founded two startups, [GoScale](https://goscale.com) (Y-Combinator S12) and [Hash Intelligence](https://hashintel.com).
+I currently work at [Risk Ledger](https://riskledger.com), however previously I was worked in Fintech for well known startups such as [GoCardless](https://gocardless.com), [Pusher](https://pusher.com) and [Cuvva](https://cuvva.com). I have also founded two startups, [GoScale](https://goscale.com) (YCombinator S12) and [Hash Intelligence](https://hashintel.com).
 
 You can find me elsewhere on the web 🌍:
 
